@@ -14,6 +14,7 @@ Travelling internationally is hard. But it shouldn't.
 ## Endpoint
 
 - GET/livingCost/:city
+<img width="1440" alt="Screenshot 2022-10-22 at 19 59 56" src="https://user-images.githubusercontent.com/72761713/197368402-91ba6a43-344a-431b-9bb0-99aa07c9d1ff.png">
 
 ## Technologies Used
 
